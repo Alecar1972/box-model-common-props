@@ -264,7 +264,7 @@ p code, li code{
 }
 
 #section4 li::before{
-    content: 
+    content: "";
 }
 
 #section5 p:last-of-type{
@@ -327,7 +327,7 @@ footer{
     display: block;
     text-decoration: none;
     text-align: center;
-    font-display: 1.1rem;
+    font-size: 1.1rem;
     font-weight: bold;
     width: 50%;
     box-shadow: var(--box-shadow-lg);
